@@ -1,0 +1,13 @@
+This is Bot which generate and send nitro gifts on your server.
+It takes time to get one nitro but it's easier than generating and checking.
+Code is not open-source cus of skids!
+
+How to use?
+
+Download zip file.
+Extract it.
+Open start bat file and that's it.
+If that doesn't work run py and type py main.py
+
+pqtrece#2022
+github.com/pqtrece
